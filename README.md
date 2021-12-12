@@ -1,0 +1,3 @@
+# ArrayMethods
+
+- implemented method slice
